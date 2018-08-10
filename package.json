@@ -1,0 +1,32 @@
+{
+    "name": "WebRTC_demo",
+    "version": "0.1.0",
+    "main": "./main.js",
+    "scripts": {
+        "start": "electron .",
+        "dist": "electron-builder"
+    },
+    "build": {
+        "appId": "com.webrtc.app",
+        "mac": {
+            "target": [
+                "dmg",
+                "zip"
+            ]
+        },
+        "win": {
+            "target": [
+                "nsis",
+                "zip"
+            ]
+        }
+    },
+    "devDependencies": {
+        "electron": "^2.0.0",
+        "electron-builder": "^20.26.1",
+        "webpack": "^4.16.5"
+    },
+    "dependencies": {
+        "trtc-sdk": "^2.5.2"
+    }
+}
