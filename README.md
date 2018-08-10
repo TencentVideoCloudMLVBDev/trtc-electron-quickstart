@@ -1,4 +1,4 @@
-# webrtc-electron-quickstart 
+# trtc-electron-quickstart 
 如何快速创建一个Electron+WebRTC桌面应用
 
 ### 1. 准备
@@ -68,18 +68,8 @@ npm run dist
 解压zip包或执行setup安装文件，应用启动后且没有报错，则说明本次打包成功。
 
 
-
-
-  [1]: https://cloud.tencent.com/document/product/647
-  [2]: https://main.qcloudimg.com/raw/e8c2c4e700ec009af7f13ccfa9ed27c3/cloud.jpg
-  [3]: https://electronjs.org/
-  [4]: https://main.qcloudimg.com/raw/a5a393541fa2cfa045414d53b9be5761/electron.png
   [5]: http://nodejs.cn/
-  [6]: https://main.qcloudimg.com/raw/67d235d63ef6d98d789958ba1e59ba82.png
-  [7]: https://main.qcloudimg.com/raw/787622a7a0f0b9ea68c4a8b81125abe1.html
-  [8]: https://main.qcloudimg.com/raw/787622a7a0f0b9ea68c4a8b81125abe1.html
   [9]: https://main.qcloudimg.com/raw/edcba0b128225f46ca36bc4c65872c72.png
   [10]: https://main.qcloudimg.com/raw/dbebeac91bbc9909c60e18648bcb3273.png
   [11]: https://main.qcloudimg.com/raw/6aacea8a28df89586d421c43f34721d6.png
-  [12]: https://cloud.tencent.com/document/product/647/17275
   [13]: https://main.qcloudimg.com/raw/dd9b70fa30f3b1fa3ecd324740676c31.png
